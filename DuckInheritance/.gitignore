@@ -1,4 +1,9 @@
+#ignore folders
 .vs/
 Temp/
 Debug/
 Release/
+
+#ignore file extension
+*.user
+*.filters
