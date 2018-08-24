@@ -3,6 +3,7 @@
 Temp/
 Debug/
 Release/
+x64/
 
 #ignore file extension
 *.user
